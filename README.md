@@ -1,16 +1,4 @@
-# init_app
+back_end: [https://github.com/arthit666/go_banking](https://github.com/arthit666/go_banking)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Banking App
+*This is a demo banking application that showcases basic banking functionalities. The app allows users to create accounts, transfer money between accounts using account numbers, and create pockets within accounts to separate funds from the main account balance.*
